@@ -12,7 +12,7 @@ This tool:
 
 ---
 
-## ⚡ Example
+## Example
 
 ```bash
 $ ./decode_cookie.py ".eJyrVkrJLC7ISaz0TFGyUrJMMjFPNjA0UdJRyix2TMnNzFOySkvMKU4F8eMzcwtSi4rz8xJLMvPS40tSi0tKi1OLkFXAxOITk5PzS_NK4HIgwbzE3FSgHcUlqYm5BaV52Q5wll5yfq5SLQBbNTKK.aNn34Q.Eifshde7vxl0NV25msH8LrFcorU"
